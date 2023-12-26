@@ -1,7 +1,7 @@
-# 프로젝트명
+# Who’s that Pokémon?
 
-📢 20##년 1/여름/2/겨울학기 [AIKU](https://github.com/AIKU-Official) 활동으로 진행한 프로젝트입니다
-🎉 20##년 1/여름/2/겨울학기 AIKU Conference 열심히상 수상!
+📢 2023년 2학기 [AIKU](https://github.com/AIKU-Official) 활동으로 진행한 프로젝트입니다
+<!--🎉 20##년 1/여름/2/겨울학기 AIKU Conference 열심히상 수상!-->
 
 ## 소개
 
@@ -27,4 +27,7 @@
 
 (프로젝트에 참여한 팀원의 이름과 깃헙 프로필 링크, 역할을 작성해주세요)
 
-- [홍길동](홍길동의 github link): (수행한 역할을 나열)
+- [황수인](https://github.com/suin00h): (수행한 역할을 나열)
+- [박승현](홍길동의 github link): (수행한 역할을 나열)
+- [박준하](홍길동의 github link): (수행한 역할을 나열)
+- [유예빈](홍길동의 github link): (수행한 역할을 나열)
