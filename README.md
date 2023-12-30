@@ -30,5 +30,5 @@
 
 - [황수인](https://github.com/suin00h): (수행한 역할을 나열)
 - [박승현](홍길동의 github link): (수행한 역할을 나열)
-- [박준하](홍길동의 github link): (수행한 역할을 나열)
+- [박준하](https://github.com/joon999): (수행한 역할을 나열)
 - [유예빈](홍길동의 github link): (수행한 역할을 나열)
